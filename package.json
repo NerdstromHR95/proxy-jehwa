@@ -1,0 +1,28 @@
+{
+  "name": "proxy-jehwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdstromHR95/proxy-jehwa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NerdstromHR95/proxy-jehwa/issues"
+  },
+  "homepage": "https://github.com/NerdstromHR95/proxy-jehwa#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-connect-proxy": "^0.2.0",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.3"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

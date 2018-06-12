@@ -1,0 +1,11 @@
+## Mac OS
+.DS_store
+
+##npm packages
+node_modules/
+
+##webpack output folder
+public/
+
+##vscode
+.vscode/
