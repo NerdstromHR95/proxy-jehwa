@@ -11,12 +11,9 @@ body {
   justify-content: space-between;
 }
 
-/* #photoview {
-  width: 615px;
-  height: 802px;
-  margin-left: 10px;
+#photoview {
   z-index: 10;
-} */
+}
 
 #detailsComponent {
   width: 300px;
